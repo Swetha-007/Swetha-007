@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Swetha</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I’m currently learning **Full Stack Development in Python**
 
-- 🤝 I’m looking for help with **Web Designing and Development**
+- 🤝 I’m looking for help with **App Development**
 
 - 📝 I regularly write articles on [https://acesse.one/1Laew](https://acesse.one/1Laew)
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://acesse.one/isVHY](https://acesse.one/isVHY)
 
-- ⚡ Fun fact **I have spent my time on designing and decorating for over half of my life🎨**
+- ⚡ Fun fact **I have spent my time on designing, developing and decorating for over half of my life🎨👩🏻‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
