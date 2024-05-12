@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **App Development**
 
-- 📝 I regularly write articles on [https://acesse.one/1Laew](https://acesse.one/1Laew)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/swetha-guru-36a98b1bb/]
 
 - 📫 How to reach me **swethaguru007@gmail.com**
 
